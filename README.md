@@ -1,5 +1,5 @@
 # Intent classification for a chatbot using Convolutional Neural Networks
-
+### CNNs for NLP
 This is Keras implementation for the task of sentence classification using CNNs.
 
 Dataset for the above task was obtained from the project [Natural Language Understanding benchmark ](https://github.com/snipsco/nlu-benchmark/tree/master/2017-06-custom-intent-engines)
